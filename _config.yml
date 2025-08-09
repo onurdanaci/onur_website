@@ -4,6 +4,9 @@
 title: "Onur Danaci"
 author: "Onur Danaci"
 logo: "images/profile.jpg"
+description: "Onur Danaci - Artificial Intelligence, Quantum Computing Researcher"
+keywords: "Onur Danaci, machine learning, reinforcemen learning, quantum computing, quantum control, quantum optics, photonics, transmons, metrology"
+
 repository:
   url: https://github.com/onurdanaci/onurdanaci.github.io
   path_to_book: ""
