@@ -12,6 +12,7 @@ repository:
   path_to_book: ""
 html:
   favicon: images/favicon.ico
+  use_sitemap: true
   navbar_number_sections: false
   use_edit_page_button: false
 
